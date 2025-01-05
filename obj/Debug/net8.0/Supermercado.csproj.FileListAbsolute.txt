@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Supermercado\bin\Debug\net8.0\Supermercado.exe
+C:\Users\User\Documents\C#\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+C:\Users\User\Documents\C#\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+C:\Users\User\Documents\C#\Supermercado\bin\Debug\net8.0\Supermercado.dll
+C:\Users\User\Documents\C#\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.dll
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+C:\Users\User\Documents\C#\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
