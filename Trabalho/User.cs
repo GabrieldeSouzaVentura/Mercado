@@ -1,6 +1,6 @@
-﻿using Mercado.Trabalho;
-using Mercado.Data;
-namespace Mercado.View;
+﻿using Mercado.Data;
+using Mercado.View;
+namespace Mercado.Trabalho;
 public class User
 {
     public static void user()
@@ -15,7 +15,7 @@ public class User
         usuario = Console.ReadLine();
         if (usuario == "0")
         {
-            login.Login();
+            Entrada.entrada();
         }
         else
         {
@@ -23,12 +23,14 @@ public class User
             senha = Console.ReadLine();
             if (moderador.Validacao(usuario, senha))
             {
+                Console.Clear();
                 Console.WriteLine("Senha correta\nBem vindo {0}", usuario);
                 Console.ReadLine();
                 Worck.worck(usuario);
             }
             else
             {
+                Console.Clear();
                 Console.WriteLine("Senha ou Usuario incorreto");
                 Console.ReadLine();
                 user();

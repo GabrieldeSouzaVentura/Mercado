@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mercado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c9591f12bed63b869874e0399d7bd34db26b33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfc82f0bb6b70b7a7c5a35f92515922a45d1caf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mercado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mercado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

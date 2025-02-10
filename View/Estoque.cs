@@ -8,7 +8,7 @@ namespace Mercado.View;
             for(int i = 0; i <estoqueView.Count; i++){
                 Console.WriteLine("{0}: - {1} - R$ {2} - quantidade: {3}", i + 1, estoqueView[i].Nome, estoqueView[i].Preco, estoqueView[i].Quantidade);
             }
-            Console.WriteLine("Escolha um produto para adicionar ou 0 para sair");
+            Console.WriteLine("Escolha um produto para adicionar ou 0 para voltar");
             try{
                 int escolha = int.Parse(Console.ReadLine());
                 if(escolha <= estoqueView.Count && escolha > 0){
@@ -24,7 +24,7 @@ namespace Mercado.View;
                     }
                 }else if(escolha == 0){
                         Console.Clear();
-                        Atendimento.Main();
+                        Atendimento.atendimento();
                 }else{
                     Console.WriteLine("Escolha invalida");
                     Console.ReadLine();

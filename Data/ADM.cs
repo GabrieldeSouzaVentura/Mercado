@@ -1,11 +1,11 @@
 ﻿namespace Mercado.Data;
 class Moderador
 {
-    private string ADM = "gsventura";
-    private string SenhaADM = "12345678Gs.";
+    private string ADM = "qwer";
+    private string SenhaADM = "1234";
     
     public bool Validacao(string usuario, string senha)
     {
-        return usuario == ADM || senha == SenhaADM;
+        return usuario == ADM && senha == SenhaADM;
     }
 }

@@ -6,7 +6,7 @@ namespace Mercado.View;
             if(CarrinhoItem.carrinhoItem.Count == 0){
                 Console.WriteLine("O carrinho esta vazio");
                 Console.ReadLine();
-                Atendimento.Main();
+                Atendimento.atendimento();
             }else{
                 double total = 0;
                 foreach(var Produto in CarrinhoItem.carrinhoItem){
@@ -27,7 +27,7 @@ namespace Mercado.View;
                         Console.WriteLine("Compra confirmada\nTroco: R${0}", troco.ToString("N2"));
                         Console.ReadLine();
                         CarrinhoItem.carrinhoItem.Clear();
-                        Atendimento.Main();
+                        Atendimento.atendimento();
                     }
                 }catch(FormatException){
                     Console.WriteLine("Valor não reconhecido");

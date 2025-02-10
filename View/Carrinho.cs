@@ -6,7 +6,7 @@ namespace Mercado.View;
             if(CarrinhoItem.carrinhoItem.Count == 0){
                 Console.WriteLine("O carrinho esta vazio");
                 Console.ReadLine();
-                Atendimento.Main();
+                Atendimento.atendimento();
             }else{
                 double total = 0;
                 foreach(var Produto in CarrinhoItem.carrinhoItem){
@@ -18,7 +18,7 @@ namespace Mercado.View;
                 Console.WriteLine("Deseja voltar para o atendimento? (S/N)");
                 string escolha = Console.ReadLine();
                 if(escolha == "s"){
-                    Atendimento.Main();
+                    Atendimento.atendimento();
                 }else{
                     carrinho();
                 }

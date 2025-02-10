@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\github\\Mercado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\data\\additens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:data\\additens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\data\\deletaritens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:data\\deletaritens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\trabalho\\edicao de estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:trabalho\\edicao de estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\trabalho\\worck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:trabalho\\worck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|c:\\users\\user\\documents\\github\\mercado\\view\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C8CA15-5FBA-4C29-97A7-559EA5E34064}|Mercado.csproj|solutionrelative:view\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 374,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\DbContext.cs",
-              "RelativeDocumentMoniker": "Data\\DbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\DbContext.cs",
-              "RelativeToolTip": "Data\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T00:50:40.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\View\\Login.cs",
-              "RelativeDocumentMoniker": "View\\Login.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\View\\Login.cs",
-              "RelativeToolTip": "View\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T00:49:18.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edicao de Estoque.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Trabalho\\Edicao de Estoque.cs",
               "RelativeDocumentMoniker": "Trabalho\\Edicao de Estoque.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Trabalho\\Edicao de Estoque.cs",
               "RelativeToolTip": "Trabalho\\Edicao de Estoque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T00:44:31.896Z",
+              "WhenOpened": "2025-02-08T22:04:27.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "worck.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Trabalho\\worck.cs",
-              "RelativeDocumentMoniker": "Trabalho\\worck.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Trabalho\\worck.cs",
-              "RelativeToolTip": "Trabalho\\worck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DeletarItens.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\DeletarItens.cs",
+              "RelativeDocumentMoniker": "Data\\DeletarItens.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\DeletarItens.cs",
+              "RelativeToolTip": "Data\\DeletarItens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T00:14:56.581Z",
+              "WhenOpened": "2025-02-08T21:51:43.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T00:36:37.542Z",
+              "WhenOpened": "2025-02-08T21:48:39.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\View\\User.cs",
-              "RelativeDocumentMoniker": "View\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\View\\User.cs",
-              "RelativeToolTip": "View\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AddItens.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\AddItens.cs",
+              "RelativeDocumentMoniker": "Data\\AddItens.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\github\\Mercado\\Data\\AddItens.cs",
+              "RelativeToolTip": "Data\\AddItens.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T00:17:10.025Z",
+              "WhenOpened": "2025-02-08T21:49:44.136Z",
               "EditorCaption": ""
             },
             {
